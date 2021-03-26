@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+</style>
+
+header{	
+	background-color: #e8d3c1;
+}
+
+
+a.brandcol{
+	font-family: Fugaz One, cursive;
+	color: #ab906e;
+	text-decoration: none;
+	font-size: 25pt;
+	
+}
+a.brandcol:hover{
+	color: #ab906e;
+}
+.linkcol{	
+	text-decoration: none;
+	margin-left:15px;
+	color: white;
+}
+a.linkcol:hover{
+	color: #ab906e;
+}
+
+a.linkcol:active{
+	color: #ab906e;
+}
+
+
